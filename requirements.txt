@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+nltk
+gensim
+cohere
+gradio
+numpy
+matplotlib
+pandas
+scikit-learn
+python-dotenv
