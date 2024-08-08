@@ -5,7 +5,7 @@ A tool that fetches, summarizes, and analyzes arXiv papers using natural languag
 ## Features
 
 - Fetch papers from arXiv based on user queries
-- Summarize paper abstracts using Cohere's AI
+- Summarize paper abstracts using Cohere
 - Preprocess text data for analysis
 - Perform topic modeling using LDA (with SVD fallback)
 - Visualize paper relationships in a 2D space
